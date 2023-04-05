@@ -852,6 +852,10 @@ footer ul li a:hover {
     .about {
         background-size: 100% 100%;
         padding: 40px 0;
+        border-radius: 20px;
+    }
+    .about__info {
+        border-radius: 20px;
     }
 }
 @media screen and (max-width: 550px) {
