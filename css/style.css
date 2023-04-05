@@ -593,6 +593,7 @@ input.location {
 }
 .contacts__container iframe {
     max-width: 800px;
+    border-radius: 0 20px 20px 0;
 }
 .contacts__info {
     background: #222B38;
